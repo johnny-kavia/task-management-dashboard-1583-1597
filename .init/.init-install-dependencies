@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/task-management-dashboard-1583-1597/nextjs_frontend"
+}
